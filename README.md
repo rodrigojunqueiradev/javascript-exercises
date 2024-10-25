@@ -38,5 +38,5 @@ Sinta-se à vontade para entrar em contato comigo se tiver alguma sugestão!
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eurodrigojunqueira@gmail.com)
 
 Obrigado.
-Malfeito feito
+Malfeito feito <br>
 Made by ♡ for Rodrigo Junqueira
