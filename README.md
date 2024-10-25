@@ -34,6 +34,10 @@ Write a program that calculates the arithmetic mean of two numbers.
 
 Write a program that calculates and displays the arithmetic mean of three grades reported by the user.
 
+### 4.
+
+Write a program that calculates and displaus the geometric mean of three numbers reported by te user.
+
 ##
 
 Mischief managed <br>
@@ -71,6 +75,10 @@ Escreva um programa que calcule a média aritmética de dois números.
 ### 3.
 
 Escreva um programa que calcule e exiba a média aritmética de três notas informadas pelo usuário.
+
+### 4.
+
+Escreva um programa que calcule a média geométrica entre três números informados pelo usuário.
 
 ##
 
