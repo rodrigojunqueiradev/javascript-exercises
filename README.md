@@ -20,9 +20,13 @@ Fell free to contact me if you have some suggestion!
 
 Thanks.
 
-## Exercises:
+## Math Exercises:
 
 ### 1.
+
+Write a program that asks the user for two numbers and shows (always from the first to the second number): addition, subtraction, multiplication, division and power.
+
+### 2.
 
 ##
 
@@ -48,9 +52,13 @@ Sinta-se à vontade para entrar em contato comigo se tiver alguma sugestão!
 
 Obrigado.
 
-## Exercícios:
+## Exercícios de Matemática:
 
 ### 1.
+
+Escreva um programa que solicite ao usuário dois números e exiba a (sempre do primeiro número pelo segundo): soma, subtração, multiplicação, divisão e a potência.
+
+### 2.
 
 ##
 
