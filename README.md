@@ -50,6 +50,12 @@ Create a program that calculates and displays the perimeter of a circumference, 
 
 Create a program that calculates and displays the area of a circle, prompting the user for the radius (S = PI \* radius^2)
 
+### 8.
+
+Write a program that calculates the quadratic equation, prompting the user for the constants.
+Quadratic equation > ax^2 + bx + c = 0
+Quadratic equation solving formula > x = (-b +/- sqrt(b*2 - 4 * a * c))/(2*a)
+
 ##
 
 Mischief managed <br>
@@ -103,6 +109,12 @@ Crie um programa que calcule e exiba o perímetro de uma circunferência, solici
 ### 7.
 
 Crie um programa que calcule e exiba a área de um círculo a partir do raio solicitado (A = PI \* raio^2).
+
+### 8.
+
+Escreva um programa que calcule a equação do segundo grau, solicitando as constantes ao usuário.
+Equação do segundo grau > ax^2 + bx + c = 0
+Fórmula de Bháskara > x = (-b +/- sqrt(b*2 - 4 * a * c))/(2*a)
 
 ##
 
