@@ -40,11 +40,15 @@ Write a program that calculates and displaus the geometric mean of three numbers
 
 ### 5.
 
-Write a program that calculates the BMI of a person. (BMI = weight (kg) / height (m)^2)
+Write a program that calculates the BMI of a person (BMI = weight (kg) / height (m)^2).
 
 ### 6.
 
-Create a program that calculates and displays the perimeter of a circle, prompting the user for the radius.
+Create a program that calculates and displays the perimeter of a circumference, prompting the user for the radius (P = 2*PI*radius).
+
+### 7.
+
+Create a program that calculates and displays the area of a circle, prompting the user for the radius (S = PI \* radius^2)
 
 ##
 
@@ -90,11 +94,15 @@ Escreva um programa que calcule a média geométrica entre três números inform
 
 ### 5.
 
-Escreva um programa que calcule o IMC de uma pessoa. (IMC = peso (kg) / altura (m)^2)
+Escreva um programa que calcule o IMC de uma pessoa (IMC = peso (kg) / altura (m)^2).
 
 ### 6.
 
-Crie um programa que calcule e exiba o perímetro de um círculo, solicitando o raio ao usuário.
+Crie um programa que calcule e exiba o perímetro de uma circunferência, solicitando o raio ao usuário (P = 2*PI*raio).
+
+### 7.
+
+Crie um programa que calcule e exiba a área de um círculo a partir do raio solicitado (A = PI \* raio^2).
 
 ##
 
