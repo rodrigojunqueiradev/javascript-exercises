@@ -38,6 +38,10 @@ Write a program that calculates and displays the arithmetic mean of three grades
 
 Write a program that calculates and displaus the geometric mean of three numbers reported by te user.
 
+### 5.
+
+Write a program that calculates the BMI of a person. (BMI = weight (kg) / height (m)^2)
+
 ##
 
 Mischief managed <br>
@@ -79,6 +83,10 @@ Escreva um programa que calcule e exiba a média aritmética de três notas info
 ### 4.
 
 Escreva um programa que calcule a média geométrica entre três números informados pelo usuário.
+
+### 5.
+
+Escreva um programa que calcule o IMC de uma pessoa. (IMC = peso (kg) / altura (m)^2)
 
 ##
 
