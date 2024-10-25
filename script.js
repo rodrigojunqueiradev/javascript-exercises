@@ -1,1 +1,1 @@
-console.log("Hello World");
+// Exercise 3:

@@ -28,6 +28,10 @@ Write a program that asks the user for two numbers and shows (always from the fi
 
 ### 2.
 
+Write a program that calculates the arithmetic mean of two numbers.
+
+### 3.
+
 ##
 
 Mischief managed <br>
@@ -59,6 +63,10 @@ Obrigado.
 Escreva um programa que solicite ao usuário dois números e exiba a (sempre do primeiro número pelo segundo): soma, subtração, multiplicação, divisão e a potência.
 
 ### 2.
+
+Escreva um programa que calcule a média aritmética de dois números.
+
+### 3.
 
 ##
 
