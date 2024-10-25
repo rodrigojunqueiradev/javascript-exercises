@@ -24,8 +24,12 @@ Thanks.
 
 ### 1.
 
+##
+
 Mischief managed <br>
 Made with ♡ by Rodrigo Junqueira
+
+#
 
 # Exercícios de JavaScript
 
@@ -47,6 +51,8 @@ Obrigado.
 ## Exercícios:
 
 ### 1.
+
+##
 
 Malfeito feito <br>
 Feito com ♡ por Rodrigo Junqueira
