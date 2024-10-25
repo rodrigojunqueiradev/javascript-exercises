@@ -19,14 +19,19 @@ Fell free to contact me if you have some suggestion!
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eurodrigojunqueira@gmail.com)
 
 Thanks.
-Mischief managed
-Made by ♡ for Rodrigo Junqueira
+
+## Exercises:
+
+### 1.
+
+Mischief managed <br>
+Made with ♡ by Rodrigo Junqueira
 
 # Exercícios de JavaScript
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Aqui temos muitos exercícios para praticar a linguagem JavaScript.
+Aqui temos muitos exercícios para praticar a linguagem JavaScript. <br>
 Aqui no "README" e também em "index.html", teremos a proposta do exercício e, as sugestões de respostas vou colocar na pasta "exercises".
 
 Todos os exercícios daqui foram adaptados de diversas bibliografias diferentes.
@@ -38,5 +43,10 @@ Sinta-se à vontade para entrar em contato comigo se tiver alguma sugestão!
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eurodrigojunqueira@gmail.com)
 
 Obrigado.
+
+## Exercícios:
+
+### 1.
+
 Malfeito feito <br>
-Made by ♡ for Rodrigo Junqueira
+Feito com ♡ por Rodrigo Junqueira
